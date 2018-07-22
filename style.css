@@ -50,11 +50,12 @@ ul {
 
 /* hero */
 .hero {
-  margin: 0 55px;
+  background: url(img/group-1.png) left center/cover no-repeat;
 }
 .logo {
   margin-bottom: 50px;
   margin-top: 30px;
+  margin-left: 55px;
 }
 .subtitle {
   font-size: 24px;
@@ -62,16 +63,24 @@ ul {
   text-transform: uppercase;
   color: #3c3c3b;
   line-height: 48px;
+  margin-left: 55px;
 }
 .title {
   line-height: 40px;
-  font-size: 34px;
+  font-size: 34px !important;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 33px;
+  margin-left: 55px;
 }
 .hero-item {
   list-style: none;
+  margin-left: 55px;
+  padding-bottom: 10px;
+  color: #3c3c3b;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 40px;
 }
 .count {
   border-radius: 30px;
@@ -82,4 +91,12 @@ ul {
   text-transform: uppercase;
   letter-spacing: 0.4px;
   padding: 22px 37px;
+  margin-left: 55px;
+  margin-bottom: 70px;
 }
+
+/* benefits */
+.blue {
+  color: #3d84a8;
+}
+
