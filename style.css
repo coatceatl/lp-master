@@ -2,6 +2,9 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: #000;
 }
+.container-fluid {
+  padding: 0 !important;
+}
 ul {
   padding: 0;
 }
@@ -111,3 +114,12 @@ ul {
   padding: 26px 98px 19px 99px;
 }
 
+/* examples */
+.examples {
+  background-color: #e5fff7;
+  padding: 60px 0;
+}
+hr {
+  height: 1px;
+  background-color: #3d84a8;
+}
