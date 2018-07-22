@@ -82,7 +82,7 @@ ul {
   font-weight: 400;
   line-height: 40px;
 }
-.count {
+.red {
   border-radius: 30px;
   background-color: #f13d2e;
   font-size: 16px;
@@ -90,6 +90,8 @@ ul {
   line-height: 24px;
   text-transform: uppercase;
   letter-spacing: 0.4px;
+}
+.red-big {
   padding: 22px 37px;
   margin-left: 55px;
   margin-bottom: 70px;
@@ -98,5 +100,14 @@ ul {
 /* benefits */
 .blue {
   color: #3d84a8;
+}
+.benefits {
+  padding: 70px 0;
+}
+.benefits-block {
+ margin-top: 50px;
+}
+.red-middle {
+  padding: 26px 98px 19px 99px;
 }
 
