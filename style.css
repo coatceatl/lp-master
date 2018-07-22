@@ -1,5 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  color: #000;
 }
 .header {
   height: 70px;
@@ -44,3 +45,24 @@ body {
   color: #fff !important;
 }
 
+/* hero */
+.hero {
+  margin: 0 55px;
+}
+.logo {
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.subtitle {
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #3c3c3b;
+  line-height: 48px;
+}
+.title {
+  line-height: 40px;
+  font-size: 34px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
